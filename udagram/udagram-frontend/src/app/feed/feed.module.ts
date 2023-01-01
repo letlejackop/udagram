@@ -25,4 +25,4 @@ const components = [FeedListComponent, FeedItemComponent, FeedUploadComponent, F
   entryComponents: entryComponents,
   providers: [FeedProviderService]
 })
-export class FeedModule {}
+export class FeedModule { }
