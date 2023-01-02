@@ -12,7 +12,8 @@ jobs:
       - image: "cimg/node:14.15"
     steps:
       # install node and checkout code
-      - node/install
+      - node/install:
+          node-version: '16'         
       - checkout
       - aws-cli/setup
       # Use root level package.json to install dependencies in the frontend app
