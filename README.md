@@ -3,7 +3,7 @@
 # Overview
 The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application, backend, frontend and databse hosted using aws services.
 
-![alt text](./documentation/Screenshot%20of%20working%20application.png)
+![alt text](./documentation/screenshots/Screenshot%20of%20working%20application.png)
 
 
 # link: 
